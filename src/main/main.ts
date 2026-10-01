@@ -343,7 +343,7 @@ const createWindow = async () => {
       multicastDnsSimulatorEnabled:
         process.env.MULTICAST_DNS_SIMULATOR_ENABLED === 'true',
       firmwaresPath,
-      cloudCacheServer: 'https://artifactory.expresslrs.org',
+      cloudCacheServer: 'https://poisedundead.github.io/Custom-ExpressLRS',
       firmwareCloudCachePath,
       getPlatformioPath,
       platformioStateTempStoragePath,

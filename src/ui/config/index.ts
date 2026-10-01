@@ -15,7 +15,7 @@ interface IConfig {
 
 export const Config: IConfig = {
   documentationUrl: 'https://www.expresslrs.org/',
-  githubRepositoryUrl: 'https://github.com/ExpressLRS/ExpressLRS',
+  githubRepositoryUrl: 'https://github.com/PoisedUndead/Custom-ExpressLRS',
   facebookGroupUrl: 'https://www.facebook.com/groups/636441730280366',
   discordUrl: 'https://discord.gg/dS6ReFY',
   openCollectiveUrl: 'https://opencollective.com/expresslrs',
@@ -23,15 +23,15 @@ export const Config: IConfig = {
   productFinderUrl: 'https://www.expresslrs.org/product-finder/',
   luaScriptsUrl: 'https://github.com/ExpressLRS/Lua-Scripts/',
   expressLRSGit: {
-    cloneUrl: 'https://github.com/ExpressLRS/ExpressLRS',
-    url: 'https://github.com/ExpressLRS/ExpressLRS',
-    owner: 'ExpressLRS',
-    repositoryName: 'ExpressLRS',
-    rawRepoUrl: 'https://raw.githubusercontent.com/ExpressLRS/ExpressLRS',
+    cloneUrl: 'https://github.com/PoisedUndead/Custom-ExpressLRS',
+    url: 'https://github.com/PoisedUndead/Custom-ExpressLRS',
+    owner: 'PoisedUndead',
+    repositoryName: 'Custom-ExpressLRS',
+    rawRepoUrl: 'https://raw.githubusercontent.com/PoisedUndead/Custom-ExpressLRS',
     srcFolder: 'src',
     tagExcludes: ['<2.5.0'],
     hardwareArtifactUrl:
-      'https://artifactory.expresslrs.org/ExpressLRS/hardware.zip',
+      'https://poisedundead.github.io/Custom-ExpressLRS/ExpressLRS/hardware.zip',
   },
   backpackGit: {
     cloneUrl: 'https://github.com/ExpressLRS/Backpack',
