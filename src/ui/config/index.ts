@@ -36,7 +36,7 @@ export const Config: IConfig = {
   backpackGit: {
     cloneUrl: 'https://github.com/ExpressLRS/Backpack',
     url: 'https://github.com/ExpressLRS/Backpack',
-    owner: 'ExpressLRS',
+    owner: 'PoisedUndead',
     repositoryName: 'Backpack',
     rawRepoUrl: 'https://raw.githubusercontent.com/ExpressLRS/Backpack',
     srcFolder: '/',
